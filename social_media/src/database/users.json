@@ -1,0 +1,32 @@
+[
+    {
+      "id": "1",
+      "username": "piyush",
+      "fullname": "Piyush Kumar",
+      "password": "123"
+    },
+    {
+      "id": "2",
+      "username": "khushi",
+      "fullname": "Khushi Bansal",
+      "password": "123"
+    },
+    {
+      "id": "3",
+      "username": "prince",
+      "fullname": "Prince Tripathi",
+      "password": "123"
+    },
+    {
+      "id": "4",
+      "username": "pranjal",
+      "fullname": "Pranjal Naman",
+      "password": "123"
+    },
+    {
+      "id": "5",
+      "username": "sonu",
+      "fullname": "Aniket Kumar",
+      "password": "123"
+    }
+  ]

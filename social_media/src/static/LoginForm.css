@@ -1,0 +1,15 @@
+.login-form {
+    margin-top: 10%;
+    background-color:rgb(100, 108, 115);
+    width: 20%;
+  }
+  
+  .fields {
+    padding-top: 20px;
+    padding-bottom: 10%;
+  }
+  
+  .heading{
+    padding-top: 20px;
+    color: white;
+  }
